@@ -1,0 +1,95 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-size: 20px;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    margin: 30px 
+}
+
+.buttonblue {
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    border-radius: 99px;
+    border: none;
+}
+
+.startbutton {
+    background-color: red;
+}
+
+.hideimagered {
+    visibility: hidden
+}
+
+.buttonyellow {
+    height: 40px;
+    width: 40px;
+    background-color: yellow;
+    border-radius: 99px;
+    border: none;
+}
+
+.buttonred {
+    height: 40px;
+    width: 40px;
+    background-color: red;
+    border-radius: 99px;
+    border: none;
+}
+
+.buttongreen {
+    height: 40px;
+    width: 40px;
+    background-color: green;
+    border-radius: 99px;
+    border: none; 
+}
+
+.maincontent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.imageblue {
+    height: 200px;
+    width: 400px;
+    background-color: blue;
+    display: flex;
+    margin: 5px 5px 5px 5px;
+}
+
+.imageyellow {
+    height: 200px;
+    width: 400px;
+    background-color: yellow;
+    display: flex;
+    margin: 5px 5px 5px 5px;
+}
+
+.imagered {
+    height: 200px;
+    width: 400px;
+    background-color: red;
+    display: flex;
+    margin: 5px 5px 5px 5px;
+}
+
+.imagegreen {
+    height: 200px;
+    width: 400px;
+    background-color: green;
+    display: flex;
+    margin: 5px 5px 5px 5px;
+}
+
+.red-image-invisible {
+    display: none;
+}
