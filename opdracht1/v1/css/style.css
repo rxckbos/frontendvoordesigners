@@ -21,11 +21,9 @@ body{
 }
 
 .startbutton {
-    background-color: red;
-}
-
-.hideimagered {
-    visibility: hidden
+    transform: scale(1.2);
+    transition: 1.5s;
+    opacity: 0.8;
 }
 
 .buttonyellow {
@@ -74,7 +72,7 @@ body{
     margin: 5px 5px 5px 5px;
 }
 
-.imagered {
+.imagered, .imagered2 {
     height: 200px;
     width: 400px;
     background-color: red;
@@ -90,6 +88,10 @@ body{
     margin: 5px 5px 5px 5px;
 }
 
-.red-image-invisible {
-    display: none;
+.hideimagered {
+    display: none !important;
+}
+
+.hideallimages {
+    display: none !important;    
 }
