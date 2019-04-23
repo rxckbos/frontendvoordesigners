@@ -1,32 +1,29 @@
 //BUTTONBLUE
-/*
 var buttonblue = document.querySelector('.buttonblue');
-var imagered = document.querySelector('.imagered');
+var imageyellow = document.querySelectorAll('.imageyellow');
+var imagered = document.querySelectorAll('.imagered');
+var imagegreen = document.querySelectorAll('.imagegreen');
 
 function startbutton() {
   buttonblue.classList.toggle('startbutton');
 }
 
-function hideimagered() {
-  imagered.classList.toggle('hideimagered');
+function hideForBlue() {
+    for(var hideimageyellow of imageyellow){
+        console.log(hideimageyellow);
+        hideimageyellow.classList.toggle('hideimageyellow');
+    }
+    
+    for(var hideimagered of imagered){
+        console.log(hideimagered);
+        hideimagered.classList.toggle('hideimagered');
+    }
+    
+    for(var hideimagegreen of imagegreen){
+        console.log(hideimagegreen);
+        hideimagegreen.classList.toggle('hideimagegreen');
+    }
 }
 
 buttonblue.addEventListener('click', startbutton);
-buttonblue.addEventListener('click', hideimagered);
-*/
-
-var buttonblue = document.querySelector('.buttonblue');
-var imagered = document.querySelector('.imagered');
-var imageAll = document.querySelector('img');
-
-function startbutton() {
-  buttonblue.classList.toggle('startbutton');
-}
-
-function hideimagered() {  
-    imageAll.classList.toggle('hideallimages');
-  /*imagered.classList.add('hideimagered');*/
-}
-
-buttonblue.addEventListener('click', startbutton);
-buttonblue.addEventListener('click', hideimagered);
+buttonblue.addEventListener('click', hideForBlue);
