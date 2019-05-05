@@ -8,145 +8,157 @@ body{
     font-family: 'Heebo', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #F8F8F8;
-    font-size: 18px;
-}
-
-img {
-    border-radius: 10px;
-    margin: 10px 10px 10px 10px;
-    box-shadow: 0px 8px 16px #D3D3D3;
-    transition: 0.5s;
-}
-
-img:hover {
-    transform: scale(1.02);
-    transition: 0.5s;
-    box-shadow: 0px 12px 16px #A9A9A9;
+    background-color: #F7F8F9;
+    font-size: 16px;
 }
 
 .menu {
     display: flex;
     justify-content: center;
-    padding: 30px;
+    padding: 32px;
     background-color: #ffffff;
     margin-bottom: 32px;
+    width: 100%;
+    box-shadow: 0px 1px 1px #F1F2F4;
 }
 
+/*General button properties*/
 button {
-    margin: 0px 10px;
-    transition: 0.3s;
+    margin: 0px 8px;
+    transition: 0.4s;
+    height: 40px;
+    width: 40px;
+    border-radius: 99px;
+    border: none;
+    outline: 0;
 }
 
-button:hover {
-    
-}
-
+/*'All colors' button incl. states*/
 .buttonallcolors {
-    padding-top: 15px;
+    transition: 0.8;
+    padding-top: 8px;
     text-align: center;
     font-weight: 500;
-    color: #303030;
-    height: 56px;
-    width: 148px;
+    color: #717D92;
+    height: 40px;
+    width: 104px;
     border-radius: 99px;
-    border: 2px solid #D3D3D3;
-    margin: 0px 10px;
+    border: none;
+    margin: 0px 8px;
     text-decoration: none;
 }
 
+.buttonallcolors:hover {
+    background-color: #F7F8F9;
+    border-radius: 8px;
+    transition: 0.4s;
+    color: #283A5B;
+}
+
+/*'Blue' button incl. states*/
 .buttonblue {
-    height: 56px;
-    width: 56px;
-    background-color: #0382FF;
-    border-radius: 99px;
-    border: none;
-    outline: 0;
+    background-color: #0284FE;
 }
 
 .buttonblue:hover {
-    box-shadow: 0px 8px 16px rgba(3, 130, 255, 0.4);
+    box-shadow: 0px 12px 12px rgba(3, 130, 255, 0.2);
+    border-radius: 8px;
+    transition: 0.4s;
 }
 
+.buttonblue:focus {
+    box-shadow: 0px 12px 12px rgba(3, 130, 255, 0.2);
+}
+
+/*'Yellow' button incl. states*/
 .buttonyellow {
-    height: 56px;
-    width: 56px;
-    background-color: #FFFA02;
-    border-radius: 99px;
-    border: none;
-    outline: 0;
+    background-color: #F7AF22;
 }
 
 .buttonyellow:hover {
-    box-shadow: 0px 8px 16px rgba(255, 250, 2, 0.4);
+    box-shadow: 0px 12px 12px rgba(255, 250, 2, 0.2);
+    border-radius: 8px;
+    transition: 0.4s;
 }
 
+.buttonyellow:focus {
+    box-shadow: 0px 12px 12px rgba(255, 250, 2, 0.2);
+}
+
+/*'Red' button incl. states*/
 .buttonred {
-    height: 56px;
-    width: 56px;
-    background-color: #FF0340;
-    border-radius: 99px;
-    border: none;
-    outline: 0;
+    background-color: #F4541D;
 }
 
 .buttonred:hover {
-    box-shadow: 0px 8px 16px rgba(255, 3, 64, 0.4);
+    box-shadow: 0px 12px 12px rgba(255, 3, 64, 0.2);
+    border-radius: 8px;
+    transition: 0.4s;
 }
 
+.buttonred:focus {
+    box-shadow: 0px 12px 12px rgba(255, 3, 64, 0.2);
+}
+
+/*'Green' button incl. states*/
 .buttongreen {
-    height: 56px;
-    width: 56px;
-    background-color: #09E855;
-    border-radius: 99px;
-    border: none; 
-    outline: 0;
+    background-color: #36AB80;
 }
 
 .buttongreen:hover {
-    box-shadow: 0px 8px 16px rgba(9, 232, 85, 0.4);
+    box-shadow: 0px 12px 12px rgba(9, 232, 85, 0.2);
+    border-radius: 8px;
+    transition: 0.4s;
 }
 
-.startbutton {
-    width: 112px;
-    transition: 0.3s;
-    border-radius: 10px;
-    opacity: 0.8;
+.buttongreen:focus {
+    box-shadow: 0px 12px 12px rgba(9, 232, 85, 0.2);
+}
+
+/*Content: images*/
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .maincontent {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    max-width: 1008px;
 }
 
-.imageblue {
-    height: 200px;
-    width: 400px;
+img {
+    border-radius: 8px;
+    margin: 8px 8px 8px 8px;
+    box-shadow: 0px 8px 16px #E1E4E8;
+    transition: 0.5s;
+}
+
+img:hover {
+    transform: scale(1.02);
+    transition: 0.5s;
+    box-shadow: 0px 12px 16px #B0B7C3;
+}
+
+.imageyellow, .imagered, .imageblue, .imagegreen{
+    height: 160px;
+    width: 320px;
     display: flex;
 }
 
-.imageyellow {
-    height: 200px;
-    width: 400px;
-    background-color: yellow;
-    display: flex;
-}
 
-.imagered {
-    height: 200px;
-    width: 400px;
-    background-color: red;
-    display: flex;
-}
-
-.imagegreen {
-    height: 200px;
-    width: 400px;
-    background-color: green;
-    display: flex;
-}
+/*Hide images after click and change button state (toggled in javascript)*/
 
 .hideimagered, .hideimagegreen, .hideimageyellow, .hideimageblue {
-    display: none !important;
+    display: none;
+}
+
+.startbutton {
+    width: 72px;
+    transition: 0.4s;
+    border-radius: 8px;
+    opacity: 0.8;
 }

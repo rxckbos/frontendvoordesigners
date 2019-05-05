@@ -2,13 +2,14 @@
 Als ik foto's zoek wil ik kunnen selecteren op kleur om verassende zoekresultaten te krijgen. Door op een van de kleuren te klikken boven aan de pagina, verschijnen de afbeeldinge met deze kleur.
 
 Tweaks V2:
-* Donkere achtergrond/artboard
+* Button transaction
 * Randomize afbeeldingen
-* Logo toevoeging
-* Maximale breedte
+* Clean up CSS
+* Maximale breedte content container
 
 Futere tweaks:
 * Nightmode in plaats van donkere achtergrond, zodat mensen zelf een keuze kunnen maken (keep users in control).
+* Animatie bij het verbergen van afbeeldingen met een andere kleur dan geselecteerd wordt.
 
 Link naar demo 1:
 
