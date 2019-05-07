@@ -25,4 +25,4 @@ Link naar demo:
 
 Link naar de broncode:
 
-[Code demo voor opdracht 1](https://rxckbos.github.io/frontendvoordesigners/blob/master/opdracht1/v2)
+[Code demo voor opdracht 1](https://github.com/rxckbos/frontendvoordesigners/tree/master/opdracht1/v2)
