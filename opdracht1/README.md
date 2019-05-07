@@ -1,7 +1,8 @@
 # frontend voor designers - opdracht 1
 Als ik foto's zoek wil ik kunnen selecteren op kleur om verassende zoekresultaten te krijgen. Door op een van de kleuren te klikken boven aan de pagina, verschijnen de afbeeldinge met deze kleur.
 
-Tweaks V2:
+## Tweaks V2:
+* Hover van colorbuttons veranderd. Bij hover krijgen de buttons een radius van 8px, zodat de overgang naar de animatie van de actieve state niet te groot is.
 * Button transaction
 * Randomize afbeeldingen
 * Clean up CSS
