@@ -14,15 +14,15 @@ Om de pagina netjes en gestructureerd over te laten komen heb ik een 8 pixel gri
 * Clean up CSS
 * Maximale breedte content container
 
-Futere tweaks:
+### Futere tweaks:
 * Nightmode in plaats van donkere achtergrond, zodat mensen zelf een keuze kunnen maken (keep users in control).
 * Animatie bij het verbergen van afbeeldingen met een andere kleur dan geselecteerd wordt.
 
-Link naar demo 1:
+Link naar demo:
 
-[Demo 1 voor opdracht 1](https://rxckbos.github.io/frontendvoordesigners/opdracht1/v2)
+[Demo voor opdracht 1](https://rxckbos.github.io/frontendvoordesigners/opdracht1/v2)
 
 
 Link naar de broncode:
 
-[Code demo 1 voor opdracht 1](https://rxckbos.github.io/frontendvoordesigners/blob/master/opdracht1/v2)
+[Code demo voor opdracht 1](https://rxckbos.github.io/frontendvoordesigners/blob/master/opdracht1/v2)
