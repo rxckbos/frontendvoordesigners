@@ -1,6 +1,13 @@
 # frontend voor designers - opdracht 1
 Als ik foto's zoek wil ik kunnen selecteren op kleur om verassende zoekresultaten te krijgen. Door op een van de kleuren te klikken boven aan de pagina, verschijnen de afbeeldinge met deze kleur.
 
+Link naar demo:
+[Demo voor opdracht 1](https://rxckbos.github.io/frontendvoordesigners/opdracht1/v2)
+
+Link naar de broncode:
+[Code demo voor opdracht 1](https://github.com/rxckbos/frontendvoordesigners/tree/master/opdracht1/v2)
+
+
 ### 04. Keep users in control
 Gebruikers moeten het gevoel hebben dat ze alles onder controle hebben. Ik heb hier zoveel mogelijk rekening mee gehouden door de gebruiker zo min mogelijk opties te geven. Bovenaan de pagina kan de gebruiker kiezen uit een kleur of alle kleuren met als doet het filteren van de afbeeldingen op de pagina.
 
@@ -17,12 +24,3 @@ Om de pagina netjes en gestructureerd over te laten komen heb ik een 8 pixel gri
 ### Futere tweaks:
 * Nightmode in plaats van donkere achtergrond, zodat mensen zelf een keuze kunnen maken (keep users in control).
 * Animatie bij het verbergen van afbeeldingen met een andere kleur dan geselecteerd wordt.
-
-Link naar demo:
-
-[Demo voor opdracht 1](https://rxckbos.github.io/frontendvoordesigners/opdracht1/v2)
-
-
-Link naar de broncode:
-
-[Code demo voor opdracht 1](https://github.com/rxckbos/frontendvoordesigners/tree/master/opdracht1/v2)
