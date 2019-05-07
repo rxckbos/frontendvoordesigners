@@ -1,16 +1,7 @@
-# frontend voor designers
+# frontend voor designers - Rick Bos
 
-In het vak Frontend voor Designers leer je hoe je met HTML en CSS, en een beetje Javascript, snel en eenvoudig prototypes kan maken om je ontwerp ideeën te testen in een browser. We gaan animeren, responsive layouts uitproberen en interactie coderen ...
+In het vak Frontend voor Designers leer ik hoe ik met HTML en CSS, en een beetje Javascript, snel en eenvoudig prototypes kan maken om je ontwerp ideeën te testen in een browser. Ik ga animeren, responsive layouts uitproberen en interactie coderen. Onderstaand vind je de opdrachten die ik maak voor dit vak. Je kunt de demo uitproberen en de broncode bekijken. Als je op de opdracht klikt vind je specifieke informatie over de opdracht. Enjoy!
 
-Dit is de [online url](https://koopreynders.github.io/frontendvoordesigners/) met de opdrachten om te kunnen bekijken en testen in een browser.
-
-Het vak bestaat uit 3 opdrachten:
+### Opdrachten:
 
 1. [Opdracht 1](opdracht1/README.md)
-2. [Opdracht 2](opdracht2/)
-3. [Opdracht 3](opdracht3/)
-
-
----
-- [Markup cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Getting started with GitHub Pages](https://guides.github.com/features/pages/)
