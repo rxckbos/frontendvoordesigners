@@ -20,9 +20,9 @@ Futere tweaks:
 
 Link naar demo 1:
 
-[Demo 1 voor opdracht 1](https://koopreynders.github.io/frontendvoordesigners/opdracht1/v1/)
+[Demo 1 voor opdracht 1](https://rxckbos.github.io/frontendvoordesigners/opdracht1/v2)
 
 
 Link naar de broncode:
 
-[Code demo 1 voor opdracht 1](https://github.com/KoopReynders/frontendvoordesigners/blob/master/opdracht1/v1/)
+[Code demo 1 voor opdracht 1](https://rxckbos.github.io/frontendvoordesigners/blob/master/opdracht1/v2)
