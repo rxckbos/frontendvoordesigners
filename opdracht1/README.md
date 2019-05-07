@@ -1,10 +1,10 @@
 # frontend voor designers - opdracht 1
 Als ik foto's zoek wil ik kunnen selecteren op kleur om verassende zoekresultaten te krijgen. Door op een van de kleuren te klikken boven aan de pagina, verschijnen de afbeeldinge met deze kleur.
 
-Link naar demo:
+#### Link naar demo:
 [Demo voor opdracht 1](https://rxckbos.github.io/frontendvoordesigners/opdracht1/v2)
 
-Link naar de broncode:
+#### Link naar de broncode:
 [Code demo voor opdracht 1](https://github.com/rxckbos/frontendvoordesigners/tree/master/opdracht1/v2)
 
 
