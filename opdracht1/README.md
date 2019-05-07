@@ -8,6 +8,7 @@ Als ik foto's zoek wil ik kunnen selecteren op kleur om verassende zoekresultate
 [Code demo voor opdracht 1](https://github.com/rxckbos/frontendvoordesigners/tree/master/opdracht1/v2)
 
 
+
 ### 04. Keep users in control
 Gebruikers moeten het gevoel hebben dat ze alles onder controle hebben. Ik heb hier zoveel mogelijk rekening mee gehouden door de gebruiker zo min mogelijk opties te geven. Bovenaan de pagina kan de gebruiker kiezen uit een kleur of alle kleuren met als doet het filteren van de afbeeldingen op de pagina.
 
