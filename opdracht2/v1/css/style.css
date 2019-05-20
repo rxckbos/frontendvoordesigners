@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+.section-1,
+.section-2 {
+    background-color: rgb(ff, ff, ff);
+    transition: background-color 1s;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin-top: 0;
+}
+
+.content {
+    color: white;
+    font: 32px "Arial";
+}
