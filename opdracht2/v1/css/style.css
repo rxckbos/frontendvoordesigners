@@ -23,6 +23,11 @@ body {
     margin-top: 0;
 }
 
+img {
+    width: 600px;
+    height: 400px;
+}
+
 .content {
     color: white;
     font: 32px "Arial";

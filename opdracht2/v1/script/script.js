@@ -1,3 +1,14 @@
+//Scroll down 
+
+document.body.onkeydown = function scrollWin(scroll) {
+    var code = scroll.keyCode;
+    if (code === 78) { // key code for N
+        window.scrollBy(0, 698);
+    }
+};
+
+//Sections Reveal
+
 var numSteps = 20.0;
 
 var boxElement;
