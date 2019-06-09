@@ -2,10 +2,10 @@
 Beschrijving
 
 #### Link naar demo:
-[Demo voor opdracht 2](https://rxckbos.github.io/frontendvoordesigners/opdracht2/v1)
+[Demo voor opdracht 3](https://rxckbos.github.io/frontendvoordesigners/opdracht3/v3)
 
 #### Link naar de broncode:
-[Code demo voor opdracht 2](https://github.com/rxckbos/frontendvoordesigners/tree/master/opdracht2/v1)
+[Code demo voor opdracht 3](https://github.com/rxckbos/frontendvoordesigners/tree/master/opdracht3/v3)
 
 ### 04. Keep users in control
 Elke scherm weergeeft een fotoproject. Hierdoor is alle aandacht gevestigd op dit ene project. De enige actie die de user kan verichten is de 'N' button gebruiken om naar het volgede project te gaan.
