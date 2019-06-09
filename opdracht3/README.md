@@ -1,17 +1,17 @@
 # frontend voor designers - opdracht 3
+Beschrijving
 
-Voor opdracht 3 ga je een functionaliteit ontwerpen met externe data, en testen. De data is JSON die met een REST API van een externe bron wordt ingeladen met Javascript. Als de data geladen is moeten gebruikers je ontwerp op verschillende manieren kunnen bedienen. Verschillende states zijn vormgeven en worden op het juiste moment getoond.
+#### Link naar demo:
+[Demo voor opdracht 2](https://rxckbos.github.io/frontendvoordesigners/opdracht2/v1)
 
-Dit is een voorbeeld van het laden van data en er html mee maken:
-[Code demo](https://koopreynders.github.io/frontendvoordesigners/opdracht3/XMLHttpRequest/)
+#### Link naar de broncode:
+[Code demo voor opdracht 2](https://github.com/rxckbos/frontendvoordesigners/tree/master/opdracht2/v1)
 
+### 04. Keep users in control
+Elke scherm weergeeft een fotoproject. Hierdoor is alle aandacht gevestigd op dit ene project. De enige actie die de user kan verichten is de 'N' button gebruiken om naar het volgede project te gaan.
 
-## JSON
-JSON van de movies data staat ook hier:
-deze uri kun je gebruiken voor een van de use case voor opdracht 3.
-[https://koopreynders.github.io/frontendvoordesigners/opdracht3/json/movies.json](https://koopreynders.github.io/frontendvoordesigners/opdracht3/json/movies.json)
+### 09. Appearance follows behavior
+De gebruiker verwacht naar het volgende scherm te gaan door op de 'N' (van next) te klikken, omdat ik het bij het eerste scherm heb uitgelegd. 
 
-De JSON data is ook los, per film of genre of actors te gebruiken. Check die [hier](https://github.com/KoopReynders/frontendvoordesigners/tree/master/opdracht3/json).
-
-Dit is een voorbeeld van het laden van de film data:
-[Code demo](https://koopreynders.github.io/frontendvoordesigners/opdracht3/v1/)
+### 11. Strong visual hierarchies work best
+Het enige wat de gebruiker hoeft te bekijken zijn de projecten die worden weergegeven op de portfolio site. De gebruiker heeft verder geen afleiding (bijvoorbeeld buttons en overbodige text oid).
