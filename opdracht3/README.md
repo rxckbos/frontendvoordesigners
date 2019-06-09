@@ -10,10 +10,8 @@ Voor opdracht 3 ga ik een functionaliteit ontwerpen met externe data, en testen.
 ### 04. Keep users in control
 Gebruikers weten precies wat ze moeten verwachten. Dit komt door de feedforward die ik geef in de vorm van tekst. Een voorbeeld hiervan zie je hieronder.
 
-<img align="left" src="images/pressN.jpg">
-
 ### 09. Appearance follows behavior
-De gebruiker verwacht naar het volgende scherm te gaan door op de 'N' (van next) te klikken, omdat ik het bij het eerste scherm heb uitgelegd. 
+Voor de gebruiker is het fijn dat iets werkt hoe hij of zij verwacht dat iets gaan werken. Een voorbeeld daarvan in mijn ontwerp is dat de gebruiker op 'N' kan klikken om naar de volgende film te gaan. De pagina scrollt vanzelf naar beneden met een smoothscroll. De gebruiker verwacht ook dat de pagina naar beneden gaat.
 
 ### 11. Strong visual hierarchies work best
-Het enige wat de gebruiker hoeft te bekijken zijn de projecten die worden weergegeven op de portfolio site. De gebruiker heeft verder geen afleiding (bijvoorbeeld buttons en overbodige text oid).
+Een sterke hierarchie helpt de gebruiker om informatie sneller tot zich te nemen. Ik heb ervoor gekozen om titel groot en bold te maken. Het genre heeft de vorm en kleur van een tagg, hierdoor kan de gebruiker gelijk zien in welk genre de film valt en beslissen of hij het de moeite waard vind om de beschrijving te lezen.
