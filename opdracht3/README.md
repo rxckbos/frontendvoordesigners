@@ -1,5 +1,5 @@
 # frontend voor designers - opdracht 3
-Beschrijving
+Voor opdracht 3 ga ik een functionaliteit ontwerpen met externe data, en testen. De data is JSON die met een REST API van een externe bron wordt ingeladen met Javascript. Als de data geladen is moeten gebruikers mijn ontwerp op verschillende manieren kunnen bedienen. Verschillende states zijn vormgeven en worden op het juiste moment getoond.
 
 #### Link naar demo:
 [Demo voor opdracht 3](https://rxckbos.github.io/frontendvoordesigners/opdracht3/v3)
@@ -8,7 +8,9 @@ Beschrijving
 [Code demo voor opdracht 3](https://github.com/rxckbos/frontendvoordesigners/tree/master/opdracht3/v3)
 
 ### 04. Keep users in control
-Elke scherm weergeeft een fotoproject. Hierdoor is alle aandacht gevestigd op dit ene project. De enige actie die de user kan verichten is de 'N' button gebruiken om naar het volgede project te gaan.
+Gebruikers weten precies wat ze moeten verwachten. Dit komt door de feedforward die ik geef in de vorm van tekst. Een voorbeeld hiervan zie je hieronder.
+
+<img align="left" src="images/pressN.jpg">
 
 ### 09. Appearance follows behavior
 De gebruiker verwacht naar het volgende scherm te gaan door op de 'N' (van next) te klikken, omdat ik het bij het eerste scherm heb uitgelegd. 
