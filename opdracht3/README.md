@@ -7,6 +7,9 @@ Voor opdracht 3 ga ik een functionaliteit ontwerpen met externe data, en testen.
 #### Link naar de broncode:
 [Code demo voor opdracht 3](https://github.com/rxckbos/frontendvoordesigners/tree/master/opdracht3/v3)
 
+### Bijzonderheden
+Als de user op de button 'Films zoeken' drukt, wordt er voordat de json file wordt geladen eerst een gifje getoond. Dit heb ik toegepast doormiddel van een setTimeout (2sec.). Als de 2 seconden voorbij zijn wordt de data ingeladen. Nadat de data is ingeladen scrollt de pagina vanzelf naar de eerste film. Het gifje en de autoscroll staan beide in dezelfde functie met een setTimeout.
+
 ### 04. Keep users in control
 Gebruikers weten precies wat ze moeten verwachten. Dit komt door de feedforward die ik geef in de vorm van tekst. Een voorbeeld hiervan zie je hieronder.
 
